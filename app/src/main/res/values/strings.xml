@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Medicineonline</string>
+    <string name="full_name">Enter Full Name</string>
+    <string name="user_name">Enter User Name</string>
+    <string name="email">Enter Email</string>
+    <string name="join">SignUp</string>
+
+
 </resources>

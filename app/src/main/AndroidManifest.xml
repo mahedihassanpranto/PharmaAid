@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".joinform"></activity>
+        <activity android:name=".signupform"></activity>
         <activity android:name=".testintentotp" />
         <activity android:name=".MainActivity" />
         <activity

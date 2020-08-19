@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
             if (resultCode == RESULT_OK) {
                 Intent intent=new Intent(MainActivity.this
-                        ,testintentotp.class);
+                        ,signupform.class);
                 startActivity(intent);
                 // Successfully signed in
                // FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
